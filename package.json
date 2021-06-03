@@ -9,6 +9,7 @@
     "static": "next build && next export"
   },
   "dependencies": {
+    "contentful": "^8.3.7",
     "date-fns": "^2.11.1",
     "gray-matter": "^4.0.2",
     "next": "^10.0.0",
